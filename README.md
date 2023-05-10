@@ -1,5 +1,5 @@
 # About-Me
-- 👋 Hi, I’m @komangsurya26 AKA Komang's
+- 👋 Hi, I’m Komang's
 - 👀 I’m interested in Technology and ART
 - 📚 I’m currently learning JavaScript 
 
