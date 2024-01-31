@@ -1,6 +1,6 @@
 # About-Me
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi,+I’m+Komang's;Im'interested+in+Technology+and+ART;Music+Lover;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi,+I’m+Komang's;Im'interested+in+Technology;Music+Lover;)](https://git.io/typing-svg)
 
 - 👋 Hi, I’m Komang's
 - 👀 I’m interested in Technology and ART
